@@ -1,2 +1,2 @@
-steeamlit
+streamlit
 pygame
