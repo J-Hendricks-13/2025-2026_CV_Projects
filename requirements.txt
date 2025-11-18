@@ -1,2 +1,4 @@
 streamlit
-pygame
+matplotlib
+numpy
+pandas
